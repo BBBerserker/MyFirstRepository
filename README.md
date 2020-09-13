@@ -1,4 +1,4 @@
 # MyFirstRepository
 Tutorial Repository
-
-Hello My name is LJJ
+--------------------------------
+1. 방문수령 예정
